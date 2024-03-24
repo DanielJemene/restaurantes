@@ -14,7 +14,7 @@
 	<name>restaurantes</name>
 	<description>Sistema de Reserva em Restaurantes</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
